@@ -1,0 +1,32 @@
+{
+  "name": "gatsby-source-shopify-test",
+  "version": "1.0.0",
+  "description": "Test repo for gatsby-source-shopify",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/gatsby-source-shopify-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/gatsby-source-shopify-test/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/gatsby-source-shopify-test#readme",
+  "dependencies": {
+    "gatsby": "^2.24.2",
+    "gatsby-source-shopify": "^3.2.20",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
